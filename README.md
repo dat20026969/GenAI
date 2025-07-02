@@ -1,4 +1,4 @@
 # GenAI
 TECHNICAL TEST ASSIGNMENT – GENAI POSITION
 
-Time start: 11ham 02/07/2025
+Time start: 11am 02/07/2025
